@@ -394,3 +394,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Remove the temporary debug endpoint before the release
+
+# Correct the formula used for calculating the backoff delay
