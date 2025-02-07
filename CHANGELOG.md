@@ -579,3 +579,6 @@
 
 ## 2025-02-07
 - Correct the docstring to match the actual behavior of the function
+
+## 2025-02-07
+- Adjust the threshold so we only log when it's actually an issue

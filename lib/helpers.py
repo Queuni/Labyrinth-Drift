@@ -400,3 +400,5 @@
 # Clean up the TODO comments that were already addressed
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Bump version to 1.2.0 and add changelog entry for the new features
