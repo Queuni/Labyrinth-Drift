@@ -1,0 +1,414 @@
+# config
+
+
+# Add a small delay between retries to avoid thundering herd
+
+# Remove obsolete workaround now that the upstream bug is fixed
+
+# Clean up the test fixtures and move shared data to a single file
+
+# Handle the partial write case and retry the remaining bytes
+
+# Implement request ID propagation for better tracing across services
+
+# Correct the comparison that was using the wrong operator
+
+# Fix the off-by-one error in the date range iterator
+
+# Remove the unused parameter that was left from an old refactor
+
+# Refactor the parser to use a proper state machine instead of regex
+
+# Update the changelog with the fixes included in this release
+
+# Correct the timestamp format to use ISO 8601 for consistency
+
+# Simplify the validation flow by reusing the same schema
+
+# Handle missing optional field in the response without raising
+
+# Handle timeout gracefully and return a clear error to the caller
+
+# Support both YAML and JSON config formats for flexibility
+
+# Handle connection reset by the peer without crashing the worker
+
+# Correct the timestamp format to use ISO 8601 for consistency
+
+# Update documentation to reflect the new API and usage examples
+
+# Remove hardcoded credentials and move to env-based configuration
+
+# Support both YAML and JSON config formats for flexibility
+
+# Update the license file and add the new third-party notices
+
+# Simplify the build script by using the same steps for dev and prod
+
+# Correct typo in the error message shown when validation fails
+
+# Add a smoke test that runs in CI to catch obvious regressions
+
+# Support both relative and absolute paths for the config file
+
+# Implement a small in-memory cache for the config to avoid re-reading
+
+# Improve error message when the required env var is not set
+
+# Refactor the parser to use a proper state machine instead of regex
+
+# Add a comment explaining why we disable the linter on this line
+
+# Remove the temporary debug endpoint before the release
+
+# Remove deprecated CLI flag and update docs to use the new option
+
+# Remove deprecated CLI flag and update docs to use the new option
+
+# Bump version to 1.2.0 and add changelog entry for the new features
+
+# Clean up unused imports and fix formatting to match the project style guide
+
+# Implement proper backoff with jitter for the retry logic
+
+# Fix issue where empty input was not validated before passing to the parser
+
+# Adjust the pool size to match the actual concurrency we need
+
+# Correct the default value for the feature flag in production
+
+# Handle the case when the external service returns an empty list
+
+# Handle the partial write case and retry the remaining bytes
+
+# Support custom headers in the client for API key or auth tokens
+
+# Adjust the default concurrency limit based on load test results
+
+# Add proper error handling for invalid config so the app doesn't crash on startup
+
+# Simplify the config merge logic so overrides are predictable
+
+# Implement request ID propagation for better tracing across services
+
+# Implement a small in-memory cache for the config to avoid re-reading
+
+# Bump the version and tag the release in the repo
+
+# Update the license file and add the new third-party notices
+
+# Bump the tool version and update the pre-commit hook config
+
+# Remove the temporary debug endpoint before the release
+
+# Clean up unused imports and fix formatting to match the project style guide
+
+# Clean up the deprecated alias and point callers to the new name
+
+# Correct the default path used when no config file is specified
+
+# Implement proper cleanup of resources when the process receives SIGTERM
+
+# Remove obsolete workaround now that the upstream bug is fixed
+
+# Update dependencies and resolve compatibility warning from pytest
+
+# Fix the encoding issue when reading config files with non-ASCII
+
+# Update dependencies and resolve compatibility warning from pytest
+
+# Refactor exports so the public API is clearer and easier to use
+
+# Handle edge case when the response body is empty but status is 200
+
+# Add a comment explaining why we disable the linter on this line
+
+# Implement fallback to default value when config key is missing
+
+# Implement a simple metrics endpoint for Prometheus scraping
+
+# Fix incorrect type hint that was causing mypy to fail in CI
+
+# Remove the unused parameter that was left from an old refactor
+
+# Implement a simple health check endpoint for the load balancer
+
+# Remove obsolete workaround now that the upstream bug is fixed
+
+# Add integration tests for the new export endpoint
+
+# Clean up unused imports and fix formatting to match the project style guide
+
+# Support config reload without restart via SIGHUP or file watch
+
+# Correct typo in the error message shown when validation fails
+
+# Refactor exports so the public API is clearer and easier to use
+
+# Support both YAML and JSON config formats for flexibility
+
+# Implement fallback to default value when config key is missing
+
+# Clean up debug print statements before the release
+
+# Correct the timestamp format to use ISO 8601 for consistency
+
+# Bump version to 1.2.0 and add changelog entry for the new features
+
+# Add a small delay between retries to avoid thundering herd
+
+# Support custom headers in the client for API key or auth tokens
+
+# Fix bug where the parser would hang on malformed input
+
+# Support passing options through the config file as well as CLI
+
+# Support config reload without restart via SIGHUP or file watch
+
+# Clean up the formatting and run the linter on the changed files
+
+# Simplify the CLI by merging the two similar subcommands into one
+
+# Adjust the queue size to prevent drops under burst traffic
+
+# Add validation for the config schema before applying settings
+
+# Clean up leftover code from the previous implementation
+
+# Clean up the deprecated alias and point callers to the new name
+
+# Correct the logic that determined whether to use cache or not
+
+# Fix the off-by-one error in the date range iterator
+
+# Add a comment explaining why we disable the linter on this line
+
+# Add integration test that covers the full flow from request to response
+
+# Adjust the pool size to match the actual concurrency we need
+
+# Adjust the default concurrency limit based on load test results
+
+# Refactor the parser to use a proper state machine instead of regex
+
+# Bump minimum Python version to 3.10 and update type hints accordingly
+
+# Correct the formula used for calculating the backoff delay
+
+# Refactor the data layer to separate read and write paths
+
+# Handle the partial write case and retry the remaining bytes
+
+# Update the contributing guide with the new review process
+
+# Adjust buffer size for the stream reader to reduce memory usage
+
+# Correct the default path used when no config file is specified
+
+# Remove the unused parameter that was left from an old refactor
+
+# Bump version to 1.2.0 and add changelog entry for the new features
+
+# Simplify the auth flow by using a single token source
+
+# Adjust the batch size to reduce memory usage on large inputs
+
+# Support both relative and absolute paths for the config file
+
+# Improve the default config so it works out of the box for dev
+
+# Clean up the TODO comments that were already addressed
+
+# Simplify the CLI by merging the two similar subcommands into one
+
+# Bump the version and tag the release in the repo
+
+# Implement fallback to default value when config key is missing
+
+# Remove the temporary debug endpoint before the release
+
+# Correct the timestamp format to use ISO 8601 for consistency
+
+# Simplify the build script by using the same steps for dev and prod
+
+# Correct the logic that determined whether to use cache or not
+
+# Clean up debug print statements before the release
+
+# Add a unit test for the edge case when the list is empty
+
+# Refactor config loading into a separate module for better testability
+
+# Implement proper backoff with jitter for the retry logic
+
+# Implement request ID propagation for better tracing across services
+
+# Clean up unused imports and fix formatting to match the project style guide
+
+# Adjust the threshold so we only log when it's actually an issue
+
+# Remove the feature flag now that the feature is fully rolled out
+
+# Improve logging so we can trace requests through the pipeline in production
+
+# Handle the duplicate key case by merging the values instead of failing
+
+# Add integration tests for the new export endpoint
+
+# Handle the duplicate key case by merging the values instead of failing
+
+# Improve the error recovery when the database connection is lost
+
+# Clean up the TODO comments that were already addressed
+
+# Remove the unused parameter that was left from an old refactor
+
+# Improve error message when the required env var is not set
+
+# Correct the docstring to match the actual behavior of the function
+
+# Handle the partial write case and retry the remaining bytes
+
+# Implement a small in-memory cache for the config to avoid re-reading
+
+# Add validation for the config schema before applying settings
+
+# Update the contributing guide with the new review process
+
+# Add validation for the config schema before applying settings
+
+# Refactor error handling to use a custom exception hierarchy
+
+# Improve the CLI help text so it's clear how to use each option
+
+# Clean up the formatting and run the linter on the changed files
+
+# Handle connection reset by the peer without crashing the worker
+
+# Refactor config loading into a separate module for better testability
+
+# Fix bug where the parser would hang on malformed input
+
+# Implement retry logic for the API client when the remote returns 5xx
+
+# Improve logging so we can trace requests through the pipeline in production
+
+# Fix the test that was flaky due to reliance on system time
+
+# Add a small delay between retries to avoid thundering herd
+
+# Handle the redirect response and follow it to get the final resource
+
+# Update the example config with all available options and comments
+
+# Bump version to 1.2.0 and add changelog entry for the new features
+
+# Handle timeout gracefully and return a clear error to the caller
+
+# Fix the off-by-one error in the date range iterator
+
+# Correct the docstring to match the actual behavior of the function
+
+# Refactor config loading into a separate module for better testability
+
+# Fix bug where the parser would hang on malformed input
+
+# Handle the partial write case and retry the remaining bytes
+
+# Simplify the auth flow by using a single token source
+
+# Bump version to 1.2.0 and add changelog entry for the new features
+
+# Clean up unused imports and fix formatting to match the project style guide
+
+# Handle missing optional field in the response without raising
+
+# Clean up leftover code from the previous implementation
+
+# Add validation for the config schema before applying settings
+
+# Simplify the validation flow by reusing the same schema
+
+# Fix incorrect type hint that was causing mypy to fail in CI
+
+# Update documentation to reflect the new API and usage examples
+
+# Clean up the test fixtures and move shared data to a single file
+
+# Handle connection reset by the peer without crashing the worker
+
+# Implement request ID propagation for better tracing across services
+
+# Correct typo in the error message shown when validation fails
+
+# Adjust the pool size to match the actual concurrency we need
+
+# Implement a simple health check endpoint for the load balancer
+
+# Implement request ID propagation for better tracing across services
+
+# Clean up the deprecated alias and point callers to the new name
+
+# Fix bug where the parser would hang on malformed input
+
+# Bump the version and tag the release in the repo
+
+# Clean up unused imports and fix formatting to match the project style guide
+
+# Clean up leftover code from the previous implementation
+
+# Correct the default path used when no config file is specified
+
+# Improve error message when the required env var is not set
+
+# Handle the case when the external service returns an empty list
+
+# Adjust the pool size to match the actual concurrency we need
+
+# Handle the partial write case and retry the remaining bytes
+
+# Simplify the build script by using the same steps for dev and prod
+
+# Implement fallback to default value when config key is missing
+
+# Bump the library version and pin the dependency in requirements
+
+# Clean up leftover code from the previous implementation
+
+# Improve the startup time by lazy-loading the heavy modules
+
+# Improve the default config so it works out of the box for dev
+
+# Bump the Docker base image to get the latest security patches
+
+# Clean up the formatting and run the linter on the changed files
+
+# Clean up the commented-out code that was left from debugging
+
+# Improve error message when the required env var is not set
+
+# Bump version to 1.2.0 and add changelog entry for the new features
+
+# Update the changelog with the fixes included in this release
+
+# Implement a simple health check endpoint for the load balancer
+
+# Update the deployment docs with the new environment variables
+
+# Support passing options through the config file as well as CLI
+
+# Simplify the config merge logic so overrides are predictable
+
+# Adjust buffer size for the stream reader to reduce memory usage
+
+# Clean up the deprecated alias and point callers to the new name
+
+# Fix the encoding issue when reading config files with non-ASCII
+
+# Fix the encoding issue when reading config files with non-ASCII
+
+# Improve the default config so it works out of the box for dev
+
+# Refactor the parser to use a proper state machine instead of regex
+
+# Support both relative and absolute paths for the config file
