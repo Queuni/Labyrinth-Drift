@@ -576,3 +576,6 @@
 
 ## 2025-11-27
 - Remove redundant check that was already covered by the validator
+
+## 2025-02-07
+- Correct the docstring to match the actual behavior of the function

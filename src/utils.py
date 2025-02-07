@@ -396,3 +396,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Correct the formula used for calculating the backoff delay
+
+# Add a small delay between retries to avoid thundering herd
