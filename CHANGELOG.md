@@ -582,3 +582,6 @@
 
 ## 2025-02-07
 - Adjust the threshold so we only log when it's actually an issue
+
+## 2025-02-07
+- Improve logging so we can trace requests through the pipeline in production
