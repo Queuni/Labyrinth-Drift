@@ -412,3 +412,5 @@
 # Refactor the parser to use a proper state machine instead of regex
 
 # Support both relative and absolute paths for the config file
+
+# Implement a small in-memory cache for the config to avoid re-reading

@@ -396,3 +396,5 @@
 # Improve the setup script to check for required tools before running
 
 # Implement request ID propagation for better tracing across services
+
+# Improve error message when the required env var is not set
