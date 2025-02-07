@@ -398,3 +398,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Improve error message when the required env var is not set
+
+# Refactor the parser to use a proper state machine instead of regex
