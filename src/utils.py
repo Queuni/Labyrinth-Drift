@@ -400,3 +400,5 @@
 # Add a small delay between retries to avoid thundering herd
 
 # Implement a simple metrics endpoint for Prometheus scraping
+
+# Update the changelog with the fixes included in this release
