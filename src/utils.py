@@ -398,3 +398,5 @@
 # Correct the formula used for calculating the backoff delay
 
 # Add a small delay between retries to avoid thundering herd
+
+# Implement a simple metrics endpoint for Prometheus scraping

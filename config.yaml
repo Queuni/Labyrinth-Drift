@@ -414,3 +414,5 @@
 # Support both relative and absolute paths for the config file
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Add a small delay between retries to avoid thundering herd

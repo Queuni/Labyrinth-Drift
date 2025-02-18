@@ -400,3 +400,5 @@
 # Improve error message when the required env var is not set
 
 # Refactor the parser to use a proper state machine instead of regex
+
+# Refactor config loading into a separate module for better testability
