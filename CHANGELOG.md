@@ -588,3 +588,6 @@
 
 ## 2025-02-18
 - Implement request ID propagation for better tracing across services
+
+## 2025-02-18
+- Handle timeout gracefully and return a clear error to the caller
