@@ -402,3 +402,5 @@
 # Implement a simple metrics endpoint for Prometheus scraping
 
 # Update the changelog with the fixes included in this release
+
+# Simplify error messages so they are actionable for the end user

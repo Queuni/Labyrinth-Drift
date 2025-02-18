@@ -402,3 +402,5 @@
 # Refactor the parser to use a proper state machine instead of regex
 
 # Refactor config loading into a separate module for better testability
+
+# Handle the partial write case and retry the remaining bytes
