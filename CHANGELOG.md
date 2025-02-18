@@ -591,3 +591,6 @@
 
 ## 2025-02-18
 - Handle timeout gracefully and return a clear error to the caller
+
+## 2025-02-18
+- Update the example config with all available options and comments
