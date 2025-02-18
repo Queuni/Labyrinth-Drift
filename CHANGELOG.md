@@ -585,3 +585,6 @@
 
 ## 2025-02-07
 - Improve logging so we can trace requests through the pipeline in production
+
+## 2025-02-18
+- Implement request ID propagation for better tracing across services
