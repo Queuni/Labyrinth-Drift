@@ -406,3 +406,5 @@
 # Handle the partial write case and retry the remaining bytes
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Update the deployment docs with the new environment variables

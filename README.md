@@ -469,3 +469,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Simplify the auth flow by using a single token source
 
 - Improve the startup time by lazy-loading the heavy modules
+
+- Update documentation to reflect the new API and usage examples
