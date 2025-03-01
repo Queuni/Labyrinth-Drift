@@ -467,3 +467,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Handle the case when the external service returns an empty list
 
 - Simplify the auth flow by using a single token source
+
+- Improve the startup time by lazy-loading the heavy modules
