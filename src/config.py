@@ -404,3 +404,5 @@
 # Refactor config loading into a separate module for better testability
 
 # Handle the partial write case and retry the remaining bytes
+
+# Bump dependency to get the security fix for the reported CVE
