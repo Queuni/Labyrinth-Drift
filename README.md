@@ -471,3 +471,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Improve the startup time by lazy-loading the heavy modules
 
 - Update documentation to reflect the new API and usage examples
+
+- Implement a simple health check endpoint for the load balancer
