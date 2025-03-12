@@ -408,3 +408,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Adjust default timeout value to prevent premature connection drops
