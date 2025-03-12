@@ -406,3 +406,5 @@
 # Correct the default path used when no config file is specified
 
 # Simplify the config validation by using a declarative schema
+
+# Clean up the deprecated alias and point callers to the new name
