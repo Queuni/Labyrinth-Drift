@@ -406,3 +406,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Fix the test that was flaky due to reliance on system time
+
+# Improve test coverage for the helpers module to above 90%
