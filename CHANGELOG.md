@@ -594,3 +594,6 @@
 
 ## 2025-02-18
 - Update the example config with all available options and comments
+
+## 2025-03-12
+- Add integration test that covers the full flow from request to response

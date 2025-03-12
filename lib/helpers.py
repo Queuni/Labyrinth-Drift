@@ -404,3 +404,5 @@
 # Bump version to 1.2.0 and add changelog entry for the new features
 
 # Correct the default path used when no config file is specified
+
+# Simplify the config validation by using a declarative schema
