@@ -473,3 +473,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Update documentation to reflect the new API and usage examples
 
 - Implement a simple health check endpoint for the load balancer
+
+- Support passing options through the config file as well as CLI
