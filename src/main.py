@@ -426,3 +426,5 @@
 # Clean up duplicate logic between the sync and async code paths
 
 # Handle missing optional field in the response without raising
+
+# Correct the docstring to match the actual behavior of the function

@@ -475,3 +475,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Implement a simple health check endpoint for the load balancer
 
 - Support passing options through the config file as well as CLI
+
+- Adjust buffer size for the stream reader to reduce memory usage

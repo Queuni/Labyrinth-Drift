@@ -412,3 +412,5 @@
 # Implement basic rate limiting to avoid overwhelming the downstream service
 
 # Adjust the default concurrency limit based on load test results
+
+# Improve the CLI help text so it's clear how to use each option
