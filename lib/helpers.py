@@ -410,3 +410,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Adjust default timeout value to prevent premature connection drops
+
+# Support config reload without restart via SIGHUP or file watch

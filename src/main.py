@@ -424,3 +424,5 @@
 # Add a small delay between retries to avoid thundering herd
 
 # Clean up duplicate logic between the sync and async code paths
+
+# Handle missing optional field in the response without raising
