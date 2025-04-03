@@ -408,3 +408,5 @@
 # Bump dependency to get the security fix for the reported CVE
 
 # Update the deployment docs with the new environment variables
+
+# Improve the default config so it works out of the box for dev

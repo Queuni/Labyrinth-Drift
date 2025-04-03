@@ -597,3 +597,6 @@
 
 ## 2025-03-12
 - Add integration test that covers the full flow from request to response
+
+## 2025-04-03
+- Update the changelog with the fixes included in this release
