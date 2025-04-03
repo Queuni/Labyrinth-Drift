@@ -412,3 +412,5 @@
 # Adjust default timeout value to prevent premature connection drops
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Simplify the config merge logic so overrides are predictable
