@@ -600,3 +600,6 @@
 
 ## 2025-04-03
 - Update the changelog with the fixes included in this release
+
+## 2025-04-14
+- Correct the default value for the feature flag in production
