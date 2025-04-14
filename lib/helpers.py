@@ -414,3 +414,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Simplify the config merge logic so overrides are predictable
+
+# Simplify the main loop by extracting request handling into a dedicated function
