@@ -479,3 +479,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Adjust buffer size for the stream reader to reduce memory usage
 
 - Remove obsolete workaround now that the upstream bug is fixed
+
+- Refactor utils to use a single source of truth for default values
