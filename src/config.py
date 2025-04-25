@@ -412,3 +412,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Fix the off-by-one error in the date range iterator
+
+# Simplify the auth flow by using a single token source
