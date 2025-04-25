@@ -416,3 +416,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Bump the library version and pin the dependency in requirements

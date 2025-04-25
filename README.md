@@ -481,3 +481,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Remove obsolete workaround now that the upstream bug is fixed
 
 - Refactor utils to use a single source of truth for default values
+
+- Implement request ID propagation for better tracing across services

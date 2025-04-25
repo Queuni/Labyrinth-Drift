@@ -606,3 +606,6 @@
 
 ## 2025-04-25
 - Update dependencies and resolve compatibility warning from pytest
+
+## 2025-04-25
+- Remove the unused parameter that was left from an old refactor
