@@ -603,3 +603,6 @@
 
 ## 2025-04-14
 - Correct the default value for the feature flag in production
+
+## 2025-04-25
+- Update dependencies and resolve compatibility warning from pytest

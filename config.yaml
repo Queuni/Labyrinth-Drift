@@ -420,3 +420,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Add a small delay between retries to avoid thundering herd
+
+# Simplify the build script by using the same steps for dev and prod
