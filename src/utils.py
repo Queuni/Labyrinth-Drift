@@ -414,3 +414,5 @@
 # Adjust the default concurrency limit based on load test results
 
 # Improve the CLI help text so it's clear how to use each option
+
+# Simplify the validation flow by reusing the same schema
