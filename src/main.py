@@ -428,3 +428,5 @@
 # Handle missing optional field in the response without raising
 
 # Correct the docstring to match the actual behavior of the function
+
+# Fix the memory leak in the long-running worker process
