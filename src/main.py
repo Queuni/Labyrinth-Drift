@@ -430,3 +430,5 @@
 # Correct the docstring to match the actual behavior of the function
 
 # Fix the memory leak in the long-running worker process
+
+# Simplify the dependency injection so it's easier to mock in tests

@@ -416,3 +416,5 @@
 # Simplify the auth flow by using a single token source
 
 # Simplify error messages so they are actionable for the end user
+
+# Update the example config with all available options and comments

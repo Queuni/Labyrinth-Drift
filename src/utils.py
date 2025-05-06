@@ -416,3 +416,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Simplify the validation flow by reusing the same schema
+
+# Bump the version and tag the release in the repo
