@@ -424,3 +424,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Adjust the batch size to reduce memory usage on large inputs
+
+# Adjust buffer size for the stream reader to reduce memory usage
