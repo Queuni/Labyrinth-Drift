@@ -418,3 +418,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Bump the library version and pin the dependency in requirements
+
+# Clean up the TODO comments that were already addressed

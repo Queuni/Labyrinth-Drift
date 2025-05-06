@@ -414,3 +414,5 @@
 # Fix the off-by-one error in the date range iterator
 
 # Simplify the auth flow by using a single token source
+
+# Simplify error messages so they are actionable for the end user
