@@ -418,3 +418,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Bump the version and tag the release in the repo
+
+# Simplify the auth flow by using a single token source

@@ -485,3 +485,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Implement request ID propagation for better tracing across services
 
 - Update the contributing guide with the new review process
+
+- Support passing secrets via a separate file for security
