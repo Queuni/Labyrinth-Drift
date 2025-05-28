@@ -612,3 +612,6 @@
 
 ## 2025-04-25
 - Handle connection reset by the peer without crashing the worker
+
+## 2025-05-28
+- Bump the library version and pin the dependency in requirements
