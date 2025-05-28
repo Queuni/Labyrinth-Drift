@@ -489,3 +489,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Support passing secrets via a separate file for security
 
 - Remove the temporary debug endpoint before the release
+
+- Handle the duplicate key case by merging the values instead of failing

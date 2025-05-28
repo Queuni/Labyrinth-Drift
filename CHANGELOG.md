@@ -618,3 +618,6 @@
 
 ## 2025-05-28
 - Improve the CLI help text so it's clear how to use each option
+
+## 2025-05-28
+- Adjust default timeout value to prevent premature connection drops
