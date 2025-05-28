@@ -420,3 +420,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Clean up the TODO comments that were already addressed
+
+# Simplify the CLI by merging the two similar subcommands into one
