@@ -422,3 +422,5 @@
 # Simplify the auth flow by using a single token source
 
 # Bump the version and tag the release in the repo
+
+# Correct the formula used for calculating the backoff delay

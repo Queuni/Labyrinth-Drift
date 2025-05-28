@@ -418,3 +418,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Update the example config with all available options and comments
+
+# Fix race condition in the cache that could return stale data under load

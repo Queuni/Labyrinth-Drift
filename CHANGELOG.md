@@ -615,3 +615,6 @@
 
 ## 2025-05-28
 - Bump the library version and pin the dependency in requirements
+
+## 2025-05-28
+- Improve the CLI help text so it's clear how to use each option
