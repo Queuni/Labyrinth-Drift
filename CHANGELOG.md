@@ -624,3 +624,6 @@
 
 ## 2025-06-19
 - Add integration tests for the new export endpoint
+
+## 2025-06-19
+- Clean up the commented-out code that was left from debugging
