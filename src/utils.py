@@ -426,3 +426,5 @@
 # Correct the formula used for calculating the backoff delay
 
 # Clean up the commented-out code that was left from debugging
+
+# Simplify the config merge logic so overrides are predictable

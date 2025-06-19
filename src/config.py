@@ -420,3 +420,5 @@
 # Update the example config with all available options and comments
 
 # Fix race condition in the cache that could return stale data under load
+
+# Clean up duplicate logic between the sync and async code paths

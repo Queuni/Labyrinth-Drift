@@ -426,3 +426,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Support both YAML and JSON config formats for flexibility
