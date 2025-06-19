@@ -621,3 +621,6 @@
 
 ## 2025-05-28
 - Adjust default timeout value to prevent premature connection drops
+
+## 2025-06-19
+- Add integration tests for the new export endpoint
