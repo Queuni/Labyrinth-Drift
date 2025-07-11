@@ -627,3 +627,6 @@
 
 ## 2025-06-19
 - Clean up the commented-out code that was left from debugging
+
+## 2025-07-11
+- Handle the partial write case and retry the remaining bytes
