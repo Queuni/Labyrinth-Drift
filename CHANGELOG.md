@@ -630,3 +630,6 @@
 
 ## 2025-07-11
 - Handle the partial write case and retry the remaining bytes
+
+## 2025-07-22
+- Correct the docstring to match the actual behavior of the function

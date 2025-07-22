@@ -495,3 +495,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Clean up the commented-out code that was left from debugging
 
 - Add a unit test for the edge case when the list is empty
+
+- Bump the library version and pin the dependency in requirements
