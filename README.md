@@ -493,3 +493,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Handle the duplicate key case by merging the values instead of failing
 
 - Clean up the commented-out code that was left from debugging
+
+- Add a unit test for the edge case when the list is empty
