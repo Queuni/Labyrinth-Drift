@@ -497,3 +497,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Add a unit test for the edge case when the list is empty
 
 - Bump the library version and pin the dependency in requirements
+
+- Update the changelog with the fixes included in this release
