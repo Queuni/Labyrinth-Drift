@@ -428,3 +428,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Add a comment explaining why we disable the linter on this line
+
+# Refactor config loading into a separate module for better testability
