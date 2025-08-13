@@ -426,3 +426,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Add a comment explaining why we disable the linter on this line
