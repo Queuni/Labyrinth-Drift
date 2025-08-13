@@ -438,3 +438,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Refactor utils to use a single source of truth for default values
+
+# Support config reload without restart via SIGHUP or file watch
