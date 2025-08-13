@@ -633,3 +633,6 @@
 
 ## 2025-07-22
 - Correct the docstring to match the actual behavior of the function
+
+## 2025-08-13
+- Simplify the config merge logic so overrides are predictable
