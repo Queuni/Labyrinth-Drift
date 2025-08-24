@@ -639,3 +639,6 @@
 
 ## 2025-08-24
 - Update the deployment docs with the new environment variables
+
+## 2025-08-24
+- Handle edge case when the response body is empty but status is 200
