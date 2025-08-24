@@ -430,3 +430,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Correct the default so it matches what the documentation says
+
+# Handle the duplicate key case by merging the values instead of failing

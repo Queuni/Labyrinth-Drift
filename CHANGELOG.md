@@ -636,3 +636,6 @@
 
 ## 2025-08-13
 - Simplify the config merge logic so overrides are predictable
+
+## 2025-08-24
+- Update the deployment docs with the new environment variables
