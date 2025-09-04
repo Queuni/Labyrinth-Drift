@@ -501,3 +501,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Update the changelog with the fixes included in this release
 
 - Implement proper cleanup of resources when the process receives SIGTERM
+
+- Handle the redirect response and follow it to get the final resource

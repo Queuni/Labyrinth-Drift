@@ -434,3 +434,5 @@
 # Remove the deprecated wrapper and use the library API directly
 
 # Bump the dependency to fix the compatibility issue with Python 3.12
+
+# Correct the default so it matches what the documentation says
