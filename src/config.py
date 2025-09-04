@@ -424,3 +424,5 @@
 # Clean up duplicate logic between the sync and async code paths
 
 # Refactor utils to use a single source of truth for default values
+
+# Refactor the helper to accept an optional callback for progress

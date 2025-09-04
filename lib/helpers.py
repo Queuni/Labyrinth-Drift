@@ -432,3 +432,5 @@
 # Refactor config loading into a separate module for better testability
 
 # Remove the deprecated wrapper and use the library API directly
+
+# Bump the dependency to fix the compatibility issue with Python 3.12

@@ -432,3 +432,5 @@
 # Correct the default so it matches what the documentation says
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Remove the unused parameter that was left from an old refactor
