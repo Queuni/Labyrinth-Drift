@@ -426,3 +426,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Refactor the helper to accept an optional callback for progress
+
+# Simplify the config validation by using a declarative schema

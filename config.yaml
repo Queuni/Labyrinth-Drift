@@ -434,3 +434,5 @@
 # Bump minimum Python version to 3.10 and update type hints accordingly
 
 # Adjust timeout and retry settings based on production observations
+
+# Adjust the pool size to match the actual concurrency we need

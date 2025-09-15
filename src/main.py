@@ -444,3 +444,5 @@
 # Clean up debug print statements before the release
 
 # Add a note in the README about the breaking change in 2.0
+
+# Improve the error recovery when the database connection is lost
