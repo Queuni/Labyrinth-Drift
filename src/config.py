@@ -432,3 +432,5 @@
 # Add proper error handling for invalid config so the app doesn't crash on startup
 
 # Correct the default so it matches what the documentation says
+
+# Add a smoke test that runs in CI to catch obvious regressions

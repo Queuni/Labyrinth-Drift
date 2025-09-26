@@ -436,3 +436,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Adjust the pool size to match the actual concurrency we need
+
+# Support both relative and absolute paths for the config file
