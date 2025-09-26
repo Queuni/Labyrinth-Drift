@@ -448,3 +448,5 @@
 # Improve the error recovery when the database connection is lost
 
 # Add a comment explaining why we disable the linter on this line
+
+# Add integration tests for the new export endpoint
