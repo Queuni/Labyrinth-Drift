@@ -428,3 +428,5 @@
 # Refactor the helper to accept an optional callback for progress
 
 # Simplify the config validation by using a declarative schema
+
+# Add proper error handling for invalid config so the app doesn't crash on startup

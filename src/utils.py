@@ -434,3 +434,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Remove the unused parameter that was left from an old refactor
+
+# Improve the startup time by lazy-loading the heavy modules
