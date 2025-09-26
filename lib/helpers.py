@@ -436,3 +436,5 @@
 # Bump the dependency to fix the compatibility issue with Python 3.12
 
 # Correct the default so it matches what the documentation says
+
+# Bump minimum Python version to 3.10 and update type hints accordingly

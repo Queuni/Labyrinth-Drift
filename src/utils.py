@@ -436,3 +436,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Improve the startup time by lazy-loading the heavy modules
+
+# Remove the deprecated wrapper and use the library API directly

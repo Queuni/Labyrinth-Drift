@@ -503,3 +503,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Implement proper cleanup of resources when the process receives SIGTERM
 
 - Handle the redirect response and follow it to get the final resource
+
+- Support custom headers in the client for API key or auth tokens
