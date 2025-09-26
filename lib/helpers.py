@@ -438,3 +438,5 @@
 # Correct the default so it matches what the documentation says
 
 # Bump minimum Python version to 3.10 and update type hints accordingly
+
+# Adjust buffer size for the stream reader to reduce memory usage

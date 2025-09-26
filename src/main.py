@@ -446,3 +446,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Improve the error recovery when the database connection is lost
+
+# Add a comment explaining why we disable the linter on this line

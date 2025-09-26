@@ -438,3 +438,5 @@
 # Improve the startup time by lazy-loading the heavy modules
 
 # Remove the deprecated wrapper and use the library API directly
+
+# Add validation for the config schema before applying settings
