@@ -507,3 +507,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Support custom headers in the client for API key or auth tokens
 
 - Implement request ID propagation for better tracing across services
+
+- Implement proper cleanup of resources when the process receives SIGTERM
