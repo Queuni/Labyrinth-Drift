@@ -642,3 +642,6 @@
 
 ## 2025-08-24
 - Handle edge case when the response body is empty but status is 200
+
+## 2025-10-07
+- Handle the case when the config file exists but is not readable
