@@ -438,3 +438,5 @@
 # Adjust the pool size to match the actual concurrency we need
 
 # Support both relative and absolute paths for the config file
+
+# Remove the temporary debug endpoint before the release

@@ -509,3 +509,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Implement request ID propagation for better tracing across services
 
 - Implement proper cleanup of resources when the process receives SIGTERM
+
+- Clean up leftover code from the previous implementation
