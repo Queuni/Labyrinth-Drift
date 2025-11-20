@@ -440,3 +440,5 @@
 # Bump minimum Python version to 3.10 and update type hints accordingly
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Simplify the config validation by using a declarative schema
