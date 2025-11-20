@@ -454,3 +454,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Clean up unused imports and fix formatting to match the project style guide
+
+# Remove the experimental feature that didn't make it into the release

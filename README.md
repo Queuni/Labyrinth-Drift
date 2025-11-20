@@ -511,3 +511,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Implement proper cleanup of resources when the process receives SIGTERM
 
 - Clean up leftover code from the previous implementation
+
+- Remove deprecated CLI flag and update docs to use the new option
