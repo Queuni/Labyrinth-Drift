@@ -440,3 +440,5 @@
 # Support both relative and absolute paths for the config file
 
 # Remove the temporary debug endpoint before the release
+
+# Update the deployment docs with the new environment variables
