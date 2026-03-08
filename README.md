@@ -2,7 +2,7 @@
 
 A simple **world exploration** game built with the **Unity 3D** engine. Control a 3D avatar and explore a **procedurally generated maze** with walls, rooms, doors, trees, stairs, and more. The maze is never the same twice and expands as you explore—reaching the edge triggers generation of new content for an effectively endless world.
 
-![Image of Labyrinth Drift](http://cdn.rawgit.com/erikbuck/MazeVenture/master/MazeVenture.png)
+![Image of Labyrinth Drift](MazeVenture.png)
 
 ---
 
